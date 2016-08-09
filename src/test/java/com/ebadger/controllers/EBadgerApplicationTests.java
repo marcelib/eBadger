@@ -1,4 +1,4 @@
-package com.ebadger;
+package com.ebadger.controllers;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
